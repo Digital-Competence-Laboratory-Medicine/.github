@@ -5,8 +5,8 @@ Welcome to the GitHub page of the "Digital Competence in Laboratory Medicine" in
 We are working on developing our skills in the following areas:
 - Markdown language
 - Collaborative working
-- Git and GitHub
 - R and RStudio
+- Git and GitHub
 - Python
 - Machine Learning
 - Deep Learning
