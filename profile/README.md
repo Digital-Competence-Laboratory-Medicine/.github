@@ -18,6 +18,6 @@ How do we want to achieve these goals?
 - Using this GitHub organization to work together on coding projects and to dicuss issues
 - Using other ressources like [Cryptpad](https://cryptpad.fr/) to get familiar with collaborative working tools
 
-If you have any questions, you can contact us at any time: digcomplabmed@gmx.de
+If you have any questions, you can contact us at any time: digcomplabmed@ifcc.org
 
 So let's tackle it!
