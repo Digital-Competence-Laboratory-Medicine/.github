@@ -21,3 +21,11 @@ How do we want to achieve these goals?
 If you have any questions, you can contact us at any time: digcomplabmed@ifcc.org
 
 So let's tackle it!
+
+Plan for the next weeks (to be updated):
+- January: Basics of reflimR package for reference interval estimation/verification (Jakob/maybe Georg)
+  - IT-Buzzword Bingo: Database, Data Warehouse, Data Lake (Marta)
+- February: Use of reflimR in RStudio (Jakob)
+  - IT-Buzzword Bingo: HTML/CSS (Ashish)
+- March: tba
+  - IT-Buzzword Bingo: Supervised/Unsupervised Learning (Ashish) or Big Data (Ales)
