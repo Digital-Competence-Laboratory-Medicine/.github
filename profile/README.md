@@ -24,10 +24,11 @@ So let's tackle it!
 
 Plan for the next weeks (to be updated):
 - January: Basics of reflimR package for reference interval estimation/verification (Jakob/maybe Georg)
-  - IT-Buzzword Bingo: Database, Data Warehouse, Data Lake (Marta)
 - February: Use of reflimR in RStudio (Jakob)
   - IT-Buzzword Bingo: HTML/CSS (Ashish)
-- March: Basics of Large Language Models (LLMs) (Johannes)
+- March: Programming an Web-App (APS Calculator, Hikmet)
   - IT-Buzzword Bingo: Supervised/Unsupervised Learning (Ashish)
-- April: LLM based literature research (Jakob)
+- April: Basics of Large Language Models (LLMs) (Johannes)
   - IT-Buzzword Bingo: Big Data (Ales)
+- May: LLM based literature research (Jakob)
+  - IT-Buzzword Bingo: Data Base, Data Warehouse, Data Lake, Data Lakehouse (Marta)
