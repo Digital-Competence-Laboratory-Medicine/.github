@@ -23,7 +23,6 @@ If you have any questions, you can contact us at any time: digcomplabmed@ifcc.or
 So let's tackle it!
 
 Plan for the next weeks (to be updated):
-- January: Basics of reflimR package for reference interval estimation/verification (Jakob/maybe Georg)
 - February: Use of reflimR in RStudio (Jakob)
   - IT-Buzzword Bingo: HTML/CSS (Ashish)
 - March: Programming an Web-App (APS Calculator, Hikmet)
