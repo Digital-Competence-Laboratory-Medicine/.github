@@ -24,9 +24,9 @@ So let's tackle it!
 
 Plan for the next weeks (to be updated):
 - February: Use of reflimR in RStudio (Jakob)
-  - IT-Buzzword Bingo: HTML/CSS (Ashish)
-- March: Programming an Web-App (APS Calculator, Hikmet)
   - IT-Buzzword Bingo: Supervised/Unsupervised Learning (Ashish)
+- 19th March: Programming an Web-App (APS Calculator, Hikmet)
+  - IT-Buzzword Bingo: HTML/CSS (Ashish)
 - April: Basics of Large Language Models (LLMs) (Johannes)
   - IT-Buzzword Bingo: Big Data (Ales)
 - May: LLM based literature research (Jakob)
