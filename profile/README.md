@@ -20,6 +20,8 @@ How do we want to achieve these goals?
 
 If you have any questions, you can contact us at any time: digcomplabmed@ifcc.org
 
+[Here](https://1drv.ms/f/c/0fd061f944a3fbfa/Evr7o0T5YdAggA-eFQMAAAABQUmHvjoggD__g9vFz4agbA?e=PhOjXs) is the link to our cloud folder, which contains the recordings of the sessions and the IT buzzword bingo presentations.
+
 So let's tackle it!
 
 Plan for the next weeks (to be updated):
