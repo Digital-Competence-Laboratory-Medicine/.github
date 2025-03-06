@@ -29,7 +29,8 @@ Plan for the next weeks (to be updated):
   - IT-Buzzword Bingo: Supervised/Unsupervised Learning (Ashish)
 - 19th March: Programming an Web-App (APS Calculator, Hikmet)
   - IT-Buzzword Bingo: HTML/CSS (Ashish)
-- April: Basics of Large Language Models (LLMs) (Johannes)
+- 23rd April: Basics of Large Language Models (LLMs) (Johannes)
   - IT-Buzzword Bingo: Big Data (Ales)
-- May: LLM based literature research (Jakob)
+- May: EuroMedLab
+- June: LLM based literature research (Jakob)
   - IT-Buzzword Bingo: Data Base, Data Warehouse, Data Lake, Data Lakehouse (Marta)
