@@ -24,9 +24,7 @@ If you have any questions, you can contact us at any time: digcomplabmed@ifcc.or
 
 So let's tackle it!
 
-Plan for the next weeks (to be updated):
-- February: Use of reflimR in RStudio (Jakob)
-  - IT-Buzzword Bingo: Supervised/Unsupervised Learning (Ashish)
+Plan for the next months (to be updated):
 - 19th March: Programming an Web-App (APS Calculator, Hikmet)
   - IT-Buzzword Bingo: HTML/CSS (Ashish)
 - 23rd April: Basics of Large Language Models (LLMs) (Johannes)
