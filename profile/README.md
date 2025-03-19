@@ -25,10 +25,10 @@ If you have any questions, you can contact us at any time: digcomplabmed@ifcc.or
 So let's tackle it!
 
 Plan for the next months (to be updated):
-- 19th March: Programming an Web-App (APS Calculator, Hikmet)
-  - IT-Buzzword Bingo: HTML/CSS (Ashish)
 - 23rd April: Basics of Large Language Models (LLMs) (Johannes)
-  - IT-Buzzword Bingo: Big Data (Ales)
+  - IT-Buzzword Bingo: HTML/CSS (Ashish)  
 - May: EuroMedLab
 - June: LLM based literature research (Jakob)
+  - IT-Buzzword Bingo: Big Data (Ales)
+- July: tba
   - IT-Buzzword Bingo: Data Base, Data Warehouse, Data Lake, Data Lakehouse (Marta)
