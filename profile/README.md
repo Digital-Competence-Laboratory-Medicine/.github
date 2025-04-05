@@ -30,5 +30,6 @@ Plan for the next months (to be updated):
 - May: EuroMedLab
 - June: LLM based literature research (Jakob)
   - IT-Buzzword Bingo: Big Data (Ales)
-- July: tba
+- July/August: Summer Break
+- September: Machine Learning Workflow for Lab Medicine (Inga/Georg)
   - IT-Buzzword Bingo: Data Base, Data Warehouse, Data Lake, Data Lakehouse (Marta)
